@@ -1,0 +1,6 @@
+BoxLeaf[name = TV, price = 9.00]
+BoxLeaf[name = Phone, price = 5.00]
+BoxLeaf[name = Earphone, price = 3.00]
+BoxLeaf[name = Charger, price = 3.00]
+BoxLeaf[name = Radio, price = 2.00]
+Price of all products: 22.0

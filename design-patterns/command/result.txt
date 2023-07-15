@@ -1,0 +1,12 @@
+---------------------
+User want to log out.
+An Thu Phung logged out at Wed Jan 05 23:16:35 ICT 2022
+---------------------
+User want to undo.
+An Thu Phung logged in at Wed Jan 05 23:16:42 ICT 2022
+---------------------
+User want to redo.
+An Thu Phung logged out at Wed Jan 05 23:16:42 ICT 2022
+---------------------
+User want to login.
+An Thu Phung logged in at Wed Jan 05 23:16:42 ICT 2022

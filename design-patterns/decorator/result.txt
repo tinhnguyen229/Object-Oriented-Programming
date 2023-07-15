@@ -1,0 +1,43 @@
+NORMAL EMPLOYEE: 
+-----------
+The basic information of An Phung
+An Phung terminated on 06/01/2022
+An Phung joined on 06/01/2020
+
+TEAM MEMBER: 
+-----------
+The basic information of An Phung
+An Phung terminated on 06/01/2022
+An Phung joined on 06/01/2020
+An Phung is reporting her assigned tasks.
+An Phung is coordinating with other members of her team.
+
+TEAM LEADER: 
+-----------
+The basic information of An Phung
+An Phung terminated on 06/01/2022
+An Phung joined on 06/01/2020
+An Phung is planing.
+An Phung is motivating her members.
+An Phung is monitoring her members.
+
+MANAGER: 
+-----------
+The basic information of An Phung
+An Phung terminated on 06/01/2022
+An Phung joined on 06/01/2020
+An Phung is create requirements.
+An Phung is assigning tasks.
+An Phung is managing the progress.
+
+TEAM LEADER AND MANAGER:
+-----------
+The basic information of An Phung
+An Phung terminated on 06/01/2022
+An Phung joined on 06/01/2020
+An Phung is planing.
+An Phung is motivating her members.
+An Phung is monitoring her members.
+An Phung is create requirements.
+An Phung is assigning tasks.
+An Phung is managing the progress.

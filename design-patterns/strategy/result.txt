@@ -1,0 +1,24 @@
+---------------------------------------
+I am a lazy student.
+I sleep 15 hours per day.
+I have no time for studying.
+---------------------------------------
+I want to get a scholarship.
+I can't sleep until I finish my homework.
+I love studying.
+---------------------------------------
+I am a normal student.
+I sleep 8 hours per day.
+I will study until I am sleepy.
+---------------------------------------
+I am a lazy student.
+I sleep 15 hours per day.
+I have no time for studying.
+---------------------------------------
+I didn't study much, but I still got good grades.
+I sleep 15 hours per day.
+I will study until I am sleepy.
+---------------------------------------
+I am a normal student.
+I sleep 8 hours per day.
+I will study until I am sleepy.

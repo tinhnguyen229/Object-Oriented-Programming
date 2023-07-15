@@ -1,0 +1,8 @@
+Circle filled with Red color.
+-----------------------------------
+Square filled with Red color.
+-----------------------------------
+Circle filled with Blue color.
+-----------------------------------
+Square filled with Blue color.
+Square filled with Red color.

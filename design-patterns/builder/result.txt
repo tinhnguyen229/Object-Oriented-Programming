@@ -1,0 +1,53 @@
+Prepare Veggie Lovers Pizza
+Tossing dough...
+Adding sauce...
+Adding toppings:
+   sauce
+   parmesan
+   green olives
+   chopped tomatoes
+Bake for 25 minutes at 350
+Cut the pizza into diagonal slices
+Place pizza in official PizzaStore box
+---- Veggie Lovers Pizza ----
+sauce
+parmesan
+green olives
+chopped tomatoes
+
+Prepare Meat Lovers Pizza
+Tossing dough...
+Adding sauce...
+Adding toppings:
+   NY style sauce
+   sliced tomatoes
+   mozzerella
+   sausage
+   pepperoni
+Bake for 25 minutes at 350
+Cut the pizza into diagonal slices
+Place pizza in official PizzaStore box
+---- Meat Lovers Pizza ----
+NY style sauce
+sliced tomatoes
+mozzerella
+sausage
+pepperoni
+
+Length of the String Builder: 103
+Result of the String Builder: ====
+Testing String Builder
+---- Veggie Lovers Pizza ----
+sauce
+parmesan
+green olives
+chopped tomatoes
+
+====
+Testing String Builder
+---- Meat Lovers Pizza ----
+NY style sauce
+sliced tomatoes
+mozzerella
+sausage
+pepperoni

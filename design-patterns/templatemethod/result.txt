@@ -1,0 +1,13 @@
+Building foundation with cement, iron, stone and sand.
+Building pillars with wood.
+Building wooden walls.
+Building windows.
+Building roof.
+House is built.
+------------------------------------------
+Building foundation with cement, iron, stone and sand.
+Building pillars with glass.
+Building glass walls.
+Building windows.
+Building roof.
+House is built.
